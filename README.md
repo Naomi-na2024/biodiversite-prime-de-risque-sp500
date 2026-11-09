@@ -12,4 +12,4 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 
 **Outils** : Python, pandas, statsmodels, scikit-learn, matplotlib.
 
-L'analyse complète se trouve dans le notebook. Les données ne sont pas incluses dans ce dépôt.
+L'analyse complète se trouve dans le notebook.
