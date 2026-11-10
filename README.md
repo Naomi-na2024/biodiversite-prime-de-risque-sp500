@@ -1,6 +1,6 @@
 # La biodiversité est-elle valorisée par les marchés financiers ?
 
-La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble de la société. Ce projet étudie si cette préoccupation se reflète dans les marchés financiers, à partir de 25 ans de données du S&P 500 (2000-2025).
+La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble de la société. Ce projet étudie dans quelle mesure cette préoccupation se reflète dans les marchés financiers, à partir de 25 ans de données du S&P 500 (2000-2025).
 
 **Données** : S&P 500 (Stooq), facteurs Fama-French (Kenneth French Data Library), indice d'attention à la biodiversité construit par NLP sur la presse américaine.
 
