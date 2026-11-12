@@ -27,9 +27,8 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 - **Notebook** : [biodiversite_prime_de_risque_sp500.ipynb](biodiversite_prime_de_risque_sp500.ipynb)
 - **Présentation** : [Presentation_Biodiv.pdf](Presentation_Biodiv.pdf)
 - **Données** :<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;\- S&P 500 (Stooq) : [télécharger](https://stooq.com/q/d/l/?s=%5Espx&i=d)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;\- Facteurs Fama-French 5 facteurs (Kenneth French Data Library) : [télécharger](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_daily_CSV.zip)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;\- Facteur Momentum (Kenneth French Data Library) : [télécharger](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_daily_CSV.zip)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;\- S&P 500 (**Stooq**) : https://stooq.com/<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;\- Fama-French (**Kenneth French Data Library**) : https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html<br>
   &nbsp;&nbsp;&nbsp;&nbsp;\- Biodiversité : sur demande par mail
 
 ---
