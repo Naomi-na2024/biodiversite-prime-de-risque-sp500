@@ -12,10 +12,15 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 
 **Outils** : Python, pandas, statsmodels, scikit-learn, matplotlib.
 
-L'analyse complète se trouve dans le notebook.
+## Ce que montre l'analyse
+
+À ce jour, la biodiversité ne constitue pas un facteur de valorisation sur le marché américain. L'information circule et l'attention monte, sans se traduire dans la rémunération du risque.
 
 ## Parcourir le projet
 
-- **Notebook** : [biodiversite_prime_de_risque_sp500.ipynb](https://nbviewer.org/github/Naomi-na2024/biodiversite-prime-de-risque-sp500/blob/main/biodiversite_prime_de_risque_sp500.ipynb)
-- **Présentation** : [Presentation_Biodiv.pdf](Presentation_Biodiv.pdf) ([version PowerPoint](Presentation_Biodiv.pptx))
-- **Site du projet** : [naomi-na2024.github.io/biodiversite-prime-de-risque-sp500](https://naomi-na2024.github.io/biodiversite-prime-de-risque-sp500/)
+- **Notebook** : [biodiversite_prime_de_risque_sp500.ipynb](biodiversite_prime_de_risque_sp500.ipynb)
+- **Présentation** : [Presentation_Biodiv.pdf](Presentation_Biodiv.pdf)
+
+---
+
+Contact : [nandjuinaomi@gmail.com](mailto:nandjuinaomi@gmail.com)
