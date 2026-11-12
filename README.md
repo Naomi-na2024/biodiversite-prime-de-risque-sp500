@@ -16,7 +16,8 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 
 ## Ce que montre l'analyse
 
-À ce jour, la biodiversité ne constitue pas un facteur de valorisation sur le marché américain. L'information circule et l'attention monte, sans se traduire dans la rémunération du risque.
+> **À ce jour, la biodiversité ne constitue pas un facteur de valorisation sur le marché américain.**
+> L'information circule et l'attention monte, sans se traduire dans la rémunération du risque.
 
 ## Parcourir le projet
 
