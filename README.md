@@ -12,7 +12,7 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 
 **Outils** : Python, pandas, statsmodels, scikit-learn, matplotlib.
 
-**Mots-clés** : `python` `econometrics` `finance` `nlp` `risk-management`
+**Mots-clés** : `python` `econometrics` `finance` `risk-management`
 
 ## Ce que montre l'analyse
 
