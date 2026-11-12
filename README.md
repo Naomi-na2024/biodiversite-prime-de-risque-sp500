@@ -12,6 +12,8 @@ La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble
 
 **Outils** : Python, pandas, statsmodels, scikit-learn, matplotlib.
 
+**Mots-clés** : `python` `econometrics` `finance` `nlp` `risk-management`
+
 ## Ce que montre l'analyse
 
 À ce jour, la biodiversité ne constitue pas un facteur de valorisation sur le marché américain. L'information circule et l'attention monte, sans se traduire dans la rémunération du risque.
