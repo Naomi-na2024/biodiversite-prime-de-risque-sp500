@@ -1,5 +1,7 @@
 # La biodiversité est-elle valorisée par les marchés financiers ?
 
+*Projet réalisé dans le cadre de mon parcours académique.*
+
 <p align="center">
   <img src="images/indice_biodiversite.png" alt="Évolution de l'indice d'attention à la biodiversité (2000-2025)" width="800">
 </p>
