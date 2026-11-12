@@ -2,7 +2,7 @@
 
 La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble de la société. Ce projet étudie dans quelle mesure cette préoccupation se reflète dans les marchés financiers, à partir de 25 ans de données du S&P 500 (2000-2025).
 
-**Données** : S&P 500 (**Stooq**), facteurs Fama-French (**Kenneth French Data Library**), indice d'attention à la biodiversité issu de la presse américaine (disponible sur demande par mail).
+**Données** : S&P 500 (**Stooq**), facteurs Fama-French (**Kenneth French Data Library**), indice d'attention à la biodiversité issu de la presse américaine (sur demande par mail).
 
 **Méthodes** :
 - comparaison de modèles (OLS, Ridge, Random Forest, Gradient Boosting)
