@@ -1,6 +1,8 @@
 # La biodiversité est-elle valorisée par les marchés financiers ?
 
-![Évolution de l'indice d'attention à la biodiversité (2000-2025)](images/indice_biodiversite.png)
+<p align="center">
+  <img src="images/indice_biodiversite.png" alt="Évolution de l'indice d'attention à la biodiversité (2000-2025)" width="650">
+</p>
 
 La préservation de la biodiversité est devenue un enjeu majeur pour l'ensemble de la société. Ce projet étudie dans quelle mesure cette préoccupation se reflète dans les marchés financiers, à partir de 25 ans de données du S&P 500 (2000-2025).
 
